@@ -4,7 +4,7 @@
 
 Follow me: 
 
-[LinkdIn](https://www.linkedin.com/in/bruno-belarmino-nog/)
+[LinkedIn](https://www.linkedin.com/in/bruno-belarmino-nog/)
 
 [Instagram](https://www.instagram.com/dev_in_progress/)
 
