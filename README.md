@@ -1,6 +1,6 @@
 ### Hi there, I'm Bruno Belarmino 👋
 
-## I'm a Student and Developer Front-end
+##  Developer Front-end Sr.
 
 Follow me: 
 
