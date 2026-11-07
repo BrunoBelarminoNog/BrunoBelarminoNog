@@ -27,7 +27,7 @@ São Paulo, Brazil
 
 I build software with a strong front-end foundation and hands-on experience across back-end services, integrations, architecture, AI and observability.
 
-At **Grupo Boticário**, I help develop and evolve digital self-service experiences for franchisees. My work spans the development lifecycle, connecting product needs, technical decisions and the experience of the people using what we build.
+At **Grupo Boticário**, I help develop and evolve digital self-service experiences for franchisees of Grupo Boticário. My work spans the development lifecycle, connecting product needs, technical decisions and the experience of the people using what we build.
 
 I enjoy problems that call for both **attention to detail and a broader view of the system**: making a complex interface easier to use, defining clear boundaries between modules, integrating services or understanding how an application behaves in production.
 
